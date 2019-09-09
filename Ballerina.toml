@@ -1,0 +1,6 @@
+[project]
+org-name= "thishani"
+version= "0.1.0"
+
+[dependencies]
+"wso2/facebook4"= "0.9.0"

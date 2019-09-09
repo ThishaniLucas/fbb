@@ -1,0 +1,9 @@
+org_name = "thishani"
+version = "0.1.0"
+lockfile_version = "1.0.0"
+ballerina_version = "1.0.0"
+
+[[imports."thishani/fbb:0.1.0"]]
+org_name = "wso2"
+name = "facebook4"
+version = "0.8.13"
